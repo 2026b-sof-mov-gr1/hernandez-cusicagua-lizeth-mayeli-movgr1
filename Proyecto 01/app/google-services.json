@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714746303008",
+    "project_id": "lmhc2026bmovgr1",
+    "storage_bucket": "lmhc2026bmovgr1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714746303008:android:fe01f7025133b98a592245",
+        "android_client_info": {
+          "package_name": "com.example.lmhc2026bmovgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMT1uLc0ZHNlMDXmleLXvXcHCuWjqA1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
